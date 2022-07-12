@@ -3,7 +3,7 @@
 
 > This is to demonstrate external api call and formatting the data
 
-### 🏠 [Homepage](https://github.com/rabendrashama)
+### 🏠 [Homepage](https://github.com/rabendrasharma/recipe-test)
 
 ## Prerequisites
 
